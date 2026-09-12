@@ -4,6 +4,10 @@
 
 An educational step tracking app that acts as a tour guide, when you've reached a step milestone, you will be rewarded with a ‘message in a bottle’ containing a fun fact about pirates. The message is then saved in your ‘captain's log’ for you to refer to. You can add friends and compare how many facts you’ve discovered or the distance you've walked overtime.
 
+## Video
+
+https://www.youtube.com/watch?v=dQBtnjMCyw4
+
 ## Features
 
  * Homepage:
